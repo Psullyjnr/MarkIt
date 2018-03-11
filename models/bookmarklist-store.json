@@ -1,0 +1,67 @@
+{
+  "bookmarklistCollection": [
+    {
+      "id": "01",
+      "title": "HTML Learning Resources",
+      "bookmarks": [
+        {
+          "id": "04",
+          "title": "html.net",
+          "link": "http://html.net/"
+        },
+        {
+          "id": "05",
+          "title": "Learn html & css",
+          "link": "https://learn.shayhowe.com/html-css/"
+        },
+        {
+          "id": "06",
+          "title": "Website Builder Expert",
+          "link": "https://www.websitebuilderexpert.com/coding-for-beginners/"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "CSS Learning Resources",
+      "bookmarks": [
+        {
+          "id": "07",
+          "title": "Code Institute",
+          "link": "https://www.codeinstitute.net/5-day-coding-challenge/?utm_source=google&utm_medium=cpc&utm_campaign=Search-IRL-CSS-Hi-Vol&ads_cmpid=202198937&ads_adid=14408626577&ads_matchtype=e&ads_network=g&ads_creative=248306128988&utm_term=learn%20css&ads_targetid=kwd-253248123&utm_source=adwords&utm_medium=ppc&ttv=2&gclid=CjwKCAiAxJPVBRB4EiwAsCA4aYX9mUTLlMhwuDfFJUgMWO54ED_23_kjgZyn4L9mZ-qIM9SB78O1wxoCZEMQAvD_BwE"
+        },
+        {
+          "id": "08",
+          "title": "Udemy",
+          "link": "https://www.udemy.com/the-complete-web-developer-course-2/?matchtype=e&utm_content=_._ag_learn_._ad_194139570476_._de_c_._dm__._lo_1007901_._&gclid=CjwKCAiAxJPVBRB4EiwAsCA4aWAuixSqXx_pI7UlVP-LB-GouTYMHvJyGGoefvVX5TEE-qN2w8OjARoCrPYQAvD_BwE&utm_medium=udemyads&utm_source=adwords-row&k_clickid=82c3a9bd-adf8-4d1e-9d5c-52dd6a6ffe6e_426_GOOGLE_NEW-AW-PROS-ROW-TECH-Dev-CSS-EN-EURO_._ci_764164_._sl_ENG_._vi_TECH_._sd__._la_EN_.__learn_learn+css_e_194139570476_c&utm_campaign=NEW-AW-PROS-ROW-TECH-Dev-CSS-EN-EURO_._ci_764164_._sl_ENG_._vi_TECH_._sd__._la_EN_._&utm_term=_._pl__._pd__._ti_kwd-295916433260_._kw_learn+css_._"
+        },
+        {
+          "id": "09",
+          "title": "Learn CSS Layout",
+          "link": "http://learnlayout.com/"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Javascript Learning Resources",
+      "bookmarks": [
+        {
+          "id": "10",
+          "title": "Java Programming Course",
+          "link": "http://www.javaprogrammingcourses.ie/online-diploma-courses/java-programming-courses?gclid=CjwKCAiAxJPVBRB4EiwAsCA4aZ0ZQGH2N_7Yd6_O8qniEpKOayfA8UAExKxT_il6yyZQSRvJgweUChoCDBEQAvD_BwE"
+        },
+        {
+          "id": "11",
+          "title": "JavaScript",
+          "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript"
+        },
+        {
+          "id": "12",
+          "title": "Javascript Tutorial",
+          "link": "https://javascript.info/"
+        }
+      ]
+    }
+  ]
+}
